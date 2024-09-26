@@ -1,1 +1,1 @@
-![Uygulama Ekranı](https://imgur.com/a/50x3CDD)
+![Uygulama Ekranı](https://imgur.com/wJ3WBKs)
