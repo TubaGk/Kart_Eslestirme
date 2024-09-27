@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.imgur.com/wJ3WBKs.png" alt="Uygulama Ekranı" />
+  <img src="https://imgur.com/6UiW8GX.png" alt="Uygulama Ekranı" />
 </p>
